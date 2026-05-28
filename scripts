@@ -1,1 +1,10 @@
+--CREATE DATABASE 'Warehouse'--
+
+CREATE DATABASE DataWarehouse;
+
+--CREATE THE SCHEMS--
+
+CREATE SCHEMA bronze;
+CREATE SCHEMA silver;
+CREATE SCHEMA gold;
 
